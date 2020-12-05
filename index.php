@@ -15,7 +15,7 @@ include "main-header.php";
                             <li class="cat-yellow"><a href="#" class="white">Popular</a></li>
                         </ul>
                     </div>
-                    <h1><a href="#">Every Next Level of Your Life Will Demand a Different You</a></h1>
+                    <h1><a href="#">Every Level of Your Life Will Demand a Different You</a></h1>
                     <div class="item-meta">
                         <span class="white">by</span>
                         <a href="author.html/index.html">James Bryant</a>
